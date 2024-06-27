@@ -3,64 +3,66 @@ import React from 'react';
 
 const Post = () => {
   return (
-     <div className="bg-white border rounded-lg shadow-sm p-4 mb-4">
+    <div className="bg-white border rounded-lg shadow-sm p-4 mb-4">      
     <div className="flex items-start space-x-3">
-    <img
-      className="w-12 h-12 rounded-full"
-      src="https://cdn-icons-png.flaticon.com/512/145/145867.png"
-      alt="User Avatar"
-    />
-    <div className="flex-1">
-      <div className="flex items-center space-x-2">
-        <span className="font-bold text-base lg:text-lg xl:text-xl">Dhanian</span>
-        <span className="text-gray-500 text-sm lg:text-base xl:text-lg">@e_opore</span>
-        <span className="text-gray-500 text-sm lg:text-base xl:text-lg">· 15h</span>
-      </div>
-      <p className="mt-1 text-sm lg:text-base xl:text-lg">
-        Essential VS Code Extensions for Front-End Development in 2024
-        <br /><br />
-        These extensions will make you a Pro and make you a Superhero in the market.
-        <br /><br />
-        To get them:
-        <br />
-        • Like and repost
-        <br />
-        • Follow me so that I can DM you
-        <br />
-        • Reply Extension
-      </p>
-      <img
-        className="mt-3 rounded-lg w-full"
-        src="https://code.visualstudio.com/assets/updates/1_58/terminal-editor-grid.png"
-        alt="Post Image"
-      />
-      <div className="flex justify-between mt-3 text-gray-500 text-sm lg:text-base xl:text-lg">
-        <div className="flex items-center space-x-1 hover:text-blue-500">
-          <i className="far fa-comment"></i>
-          <span>88</span>
-        </div>
-        <div className="flex items-center space-x-1 hover:text-green-500">
-          <i className="fas fa-retweet"></i>
-          <span>61</span>
-        </div>
-        <div className="flex items-center space-x-1 hover:text-red-500">
-          <i className="far fa-heart"></i>
-          <span>220</span>
-        </div>
-        <div className="flex items-center space-x-1 hover:text-gray-700">
-          <i className="fas fa-chart-bar"></i>
-          <span>14K</span>
-        </div>
-        <div className="flex items-center space-x-1 hover:text-gray-700">
-          <i className="far fa-bookmark"></i>
-        </div>
-        <div className="flex items-center space-x-1 hover:text-gray-700">
-          <i className="fas fa-share"></i>
+        <img
+          className="w-12 h-12 rounded-full"
+          src="https://cdn-icons-png.flaticon.com/512/145/145867.png"
+          alt="User Avatar"
+        />
+        <div className="flex-1">
+          <div className="flex items-center space-x-2">
+            <span className="font-bold">Dhanian</span>
+            <span className="text-gray-500">@e_opore</span>
+            <span className="text-gray-500">· 15h</span>
+          </div>
+          <p className="mt    -1">
+            Essential VS Code Extensions for Front-End Development in 2024
+            <br /><br />
+            These extensions will make you a Pro and make you a Superhero in the market.
+            <br /><br />
+            To get them:
+            <br />
+            • Like and repost
+            <br />
+            • Follow me so that I can DM you
+            <br />
+            • Reply Extension
+          </p>
+          <img
+            className="mt-3 rounded-lg"
+            src="https://code.visualstudio.com/assets/updates/1_58/terminal-editor-grid.png"
+            alt="Post Image"
+          />
+          <div className="flex justify-between mt-3 text-gray-500">
+            <div className="flex items-center space-x-1 hover:text-blue-500">
+              <i className="far fa-comment"></i>
+              <span>88</span>
+            </div>
+            <div className="flex items-center space-x-1 hover:text-green-500">
+              <i className="fas fa-retweet"></i>
+              <span>61</span>
+            </div>
+            <div className="flex items-center space-x-1 hover:text-red-500">
+              <i className="far fa-heart"></i>
+              <span>220</span>
+            </div>
+            <div className="flex items-center space-x-1 hover:text-gray-700">
+              <i className="fas fa-chart-bar"></i>
+              <span>14K</span>
+            </div>
+            <div className="flex items-center space-x-1 hover:text-gray-700">
+              <i className="far fa-bookmark"></i>
+            </div>
+            <div className="flex items-center space-x-1 hover:text-gray-700">
+              <i className="fas fa-share"></i>
+            </div>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-</div>
+  );
+};
 
 const PostWithoutImage = () => {
   return (
