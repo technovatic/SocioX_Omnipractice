@@ -69,3 +69,15 @@ Give credit to any resources or people that helped you build this project.
 
 Contributing
 Guide for others who want to contribute to your project (e.g., how to set up a development environment, coding styles).
+
+Project Snippets
+
+![snip3](https://github.com/technovatic/SocioX_Omnipractice/assets/123793502/c4c091f0-0d6e-499d-82a1-c0116a066103)
+![snip2](https://github.com/technovatic/SocioX_Omnipractice/assets/123793502/1ff799c3-206c-49df-bc30-0a45537cec14)
+![snip1](https://github.com/technovatic/SocioX_Omnipractice/assets/123793502/2e8d6e19-ec85-4eff-92f9-9e53deb34df1)
+![snip0](https://github.com/technovatic/SocioX_Omnipractice/assets/123793502/2d16a49d-a597-4449-a0e6-440c3fedca59)
+![snip4](https://github.com/technovatic/SocioX_Omnipractice/assets/123793502/beeaf162-e16c-4a55-86cc-6e05789dfbec)
+
+Project Working Live Prototype
+
+https://drive.google.com/drive/folders/1glYqwItHgmflkL8C8cK-m3s3jgClok0c?usp=sharing
