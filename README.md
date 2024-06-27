@@ -1,10 +1,18 @@
 # Project Name
 
-Brief description of your project.
+This Project is Exclusively Created using Reactjs, Tailwind, Firebase (Authentication) and Deployed in Vercel
 
 ## Features
 
-- List key features of your application.
+- The Application Includes
+- Dashboard Section - For Post Viewing and if user needs to share a post they can share.
+- Messaging Section - This section where user can communicate with each other through chats and also you can see whether user is online or offline.
+- Profile Section -  This section where user can see Posts, Podcasts, Replies, Likes, Media(Images are from Picsum), Articles
+- Followers Section - This section where user can see verified followers, followers and following and it also has a section where you can follow similar profiles.
+- Logout - This section where user can logout.
+- Login - This section where user can Login through Email/Phone Number and Password or Signin With Google
+
+- For Login through Email/Phone Number and Password the Email is abc@gmail.com Password Abc@123
 
 ## Technologies Used
 
