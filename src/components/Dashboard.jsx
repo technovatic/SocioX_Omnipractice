@@ -3,7 +3,7 @@ import React from 'react';
 
 const Post = () => {
   return (
-     <div className="bg-white border rounded-lg shadow-sm p-2 sm:p-6 md:p-2 lg:p-10 xl:p-12 mb-4 sm:mb-6 md:mb-8 lg:mb-10 xl:mb-12">
+     <div className="bg-white border rounded-lg shadow-sm p-2 sm:p-6 md:p-4 lg:p-10 xl:p-12 mb-4 sm:mb-6 md:mb-12 lg:mb-10 xl:mb-12">
     <div className="flex items-start space-x-3">
     <img
       className="w-12 h-12 rounded-full"
