@@ -66,7 +66,7 @@ const Post = () => {
 
 const PostWithoutImage = () => {
   return (
-    <div className="bg-white border rounded-lg shadow-sm p-4 mb-4">
+    <div className="bg-white border rounded-lg shadow-sm p-4 mt-2 mb-4">
       <div className="flex items-start space-x-3">
         <img
           className="w-12 h-12 rounded-full"
